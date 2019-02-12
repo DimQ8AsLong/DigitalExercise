@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6094e90a49dd1a1efb9c15bc6125f0bb"
+build_time: [1549942747, 194801000]
+inputs:
+  "/Users/BinaryLab/Desktop/DigitalExercise/DigitalExercise/ViewController.swift": [9223372036, 854775807]
+  "/Users/BinaryLab/Desktop/DigitalExercise/DigitalExercise/Model.swift": [9223372036, 854775807]
+  "/Users/BinaryLab/Desktop/DigitalExercise/DigitalExercise/DetailViewController.swift": [9223372036, 854775807]
+  "/Users/BinaryLab/Desktop/DigitalExercise/DigitalExercise/NYTableViewCell.swift": [9223372036, 854775807]
+  "/Users/BinaryLab/Desktop/DigitalExercise/DigitalExercise/AppDelegate.swift": [9223372036, 854775807]
